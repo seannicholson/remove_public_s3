@@ -14,15 +14,12 @@ Create ~/.aws/config and ~/.aws/credentials
 ~/.aws/config
 
 [default]
-
 region=
 
 ~/.aws/credential
 
 [default]
-
 aws_access_key_id =
-
 aws_secret_access_key =
 
 
