@@ -11,17 +11,6 @@ This script is provided with no warrantee and is provided as an example on how t
 default boto3 config
 Create ~/.aws/config and ~/.aws/credentials
 
-~/.aws/config
-
-[default]
-region=
-
-~/.aws/credential
-
-[default]
-aws_access_key_id =
-aws_secret_access_key =
-
 
 #Script Requirements
 This script is written in Python 2.7.x (X > 10)
